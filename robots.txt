@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xihanji-backroof.github.io/al-folio/sitemap.xml
+Sitemap: https://xihanji-backroof.github.io/sitemap.xml
