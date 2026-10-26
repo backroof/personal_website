@@ -9,6 +9,37 @@ nav_order: 2
 
 My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_sqlSKM9Sc2BHwUvwbu8CQ).
 
+## Research highlights: Little Red Dots
+
+"Little Red Dots" (LRDs) are a new and puzzling astrophysical phenomenon discovered by JWST. They manifest as an abundant population of optically red and compact galaxies with strong broad Balmer lines, and share similar but not identical spectral features with both stars and accreting black holes. With JWST observations, we discovered that LRDs can be explained by gas-enshrouded accreting black holes ([paper1](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J/abstract)).
+
+<figure style="margin: 1.5rem auto 2.5rem; max-width: 850px;">
+  <a href="{{ '/assets/img/research/lrd-gas-enshrouded-bh.png' | relative_url }}">
+    <img src="{{ '/assets/img/research/lrd-gas-enshrouded-bh.png' | relative_url }}" alt="JWST spectrum of Abell 2744-QSO1 and a gas-enshrouded accreting black hole model reproducing its Balmer break." width="1383" height="735" loading="lazy" style="display: block; width: 100%; height: auto; background: white;">
+  </a>
+  <figcaption style="margin-top: 0.75rem; font-size: 0.875rem; opacity: 0.8;">Continuum modelling of a black-hole-dominated LRD at z = 7.04. Top panel of Figure 6 in paper1.</figcaption>
+</figure>
+
+Interestingly, the obscuring gas does not form a simple spherical shell: the strong Lyα emission in the rest-FUV reveals that we need "holes" or a clumpy medium surrounding the accreting black hole. So, holes over a black hole ([paper3](https://ui.adsabs.harvard.edu/abs/2026arXiv260403370J/abstract))!
+
+<figure style="margin: 1.5rem auto 2.5rem; max-width: 560px;">
+  <a href="{{ '/assets/img/research/lrd-lya-holes.png' | relative_url }}">
+    <img src="{{ '/assets/img/research/lrd-lya-holes.png' | relative_url }}" alt="Broad Lyα emission compared with the narrower Hα profile in a black-hole-dominated LRD, with the best-fit model and residuals." width="756" height="651" loading="lazy" style="display: block; width: 100%; height: auto; background: white;">
+  </a>
+  <figcaption style="margin-top: 0.75rem; font-size: 0.875rem; opacity: 0.8;">The Lyα profile probes the geometry of the surrounding gas. Top panel of Figure 7 in paper3.</figcaption>
+</figure>
+
+Until recently, LRDs were believed to be a predominantly high-redshift phenomenon at z &gt; 4. However, with wide-area surveys including SDSS and DESI, we discovered local, bona fide LRDs at z &lt; 1. The local LRDs, or "LoRDs", allow ground-based follow-up observations due to their proximity, revealing unprecedented spectral details and tracing complex metal absorption and emission from LRDs' gas envelopes ([paper2](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2235J/abstract)).
+
+<figure style="margin: 1.5rem auto 2.5rem; max-width: 650px;">
+  <a href="{{ '/assets/img/research/lord-optical-spectrum.png' | relative_url }}">
+    <img src="{{ '/assets/img/research/lord-optical-spectrum.png' | relative_url }}" alt="Optical spectrum of local LRD J1025+1402, showing annotated Fe II emission and metal absorption features." width="750" height="531" loading="lazy" style="display: block; width: 100%; height: auto; background: white;">
+  </a>
+  <figcaption style="margin-top: 0.75rem; font-size: 0.875rem; opacity: 0.8;">Metal emission and absorption in the local LRD J1025+1402. Bottom-left panel of Figure 3 in paper2.</figcaption>
+</figure>
+
+---
+
 {% if site.data.ads_publications.papers.size > 0 %}
 
 ## Selected first-author publications
