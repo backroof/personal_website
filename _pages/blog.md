@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false # Temporarily hidden; set to true to restore the navigation tab.
 nav_order: 1
 pagination:
   enabled: true
