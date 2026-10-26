@@ -13,7 +13,7 @@ My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/
 
 ## Selected first-author publications
 
-The five most-cited first-author papers in my ADS library, ordered by citation count.
+Keywords: JWST, Little Red Dots, Galaxy and black hole evolution, Chemical enrichment
 
 {% for paper in site.data.ads_publications.papers %}
 <div class="mb-4">
