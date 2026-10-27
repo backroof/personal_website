@@ -11,7 +11,7 @@ My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/
 
 ## Research highlights:
 
-### 1) Little Red Dots
+<h3 style="color: #c43c45;">1) Little Red Dots</h3>
 
 <figure style="margin: 1.5rem auto 2.5rem; max-width: 850px;">
   <a href="{{ '/assets/img/research/lrd-jwst-five-panel.png' | relative_url }}">
@@ -47,7 +47,7 @@ Until recently, LRDs were believed to be a predominantly high-redshift phenomeno
   <figcaption style="margin-top: 0.75rem; font-size: 0.875rem; opacity: 0.8;">Metal emission and absorption in the local LRD J1025+1402. Bottom-left panel of Figure 3 in paper3.</figcaption>
 </figure>
 
-### 2) Chemical anomalies of early galaxies
+<h3 style="color: #3076b8;">2) Chemical anomalies of early galaxies</h3>
 
 In observations, elemental abundances are precise "clocks" that record the progress of stellar evolution and galaxy evolution. In particular, CNO elements are well-calibrated clocks in local galaxies: when C and N are enriched, O is typically much more enriched. However, JWST has revealed a non-negligible fraction of galaxies with enhanced nitrogen in the early Universe, which show super-solar nitrogen abundances yet sub-solar oxygen abundances ([paper4](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..881J/abstract)).
 
