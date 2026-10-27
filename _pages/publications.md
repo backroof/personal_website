@@ -13,6 +13,13 @@ My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/
 
 ### 1) Little Red Dots
 
+<figure style="margin: 1.5rem auto 2.5rem; max-width: 850px;">
+  <a href="{{ '/assets/img/research/lrd-jwst-five-panel.png' | relative_url }}">
+    <img src="{{ '/assets/img/research/lrd-jwst-five-panel.png' | relative_url }}" alt="Five JWST panels showing three lensed images of Abell 2744-QSO1 and two NIRSpec IFU maps of H-beta emission." width="1680" height="380" loading="lazy" style="display: block; width: 100%; height: auto; background: white;">
+  </a>
+  <figcaption style="margin-top: 0.75rem; font-size: 0.875rem; opacity: 0.8;">JWST images and emission-line maps of Abell 2744-QSO1. Top panel of Figure 1 in <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J/abstract">paper1</a>.</figcaption>
+</figure>
+
 "Little Red Dots" (LRDs) are a new and puzzling astrophysical phenomenon discovered by JWST. They manifest as an abundant population of optically red and compact galaxies with strong broad Balmer lines, and share similar but not identical spectral features with both stars and accreting black holes. With JWST observations, we discovered that LRDs can be explained by gas-enshrouded accreting black holes ([paper1](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J/abstract)).
 
 <figure style="margin: 1.5rem auto 2.5rem; max-width: 850px;">
