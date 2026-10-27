@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_sqlSKM9Sc2BHwUvwbu8CQ){% if site.data.ads_publications.total_papers %} ({{ site.data.ads_publications.total_papers }} papers, {{ site.data.ads_publications.total_citations }} citations){% endif %}.
+My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_sqlSKM9Sc2BHwUvwbu8CQ){% if site.data.ads_publications.total_papers %} ({{ site.data.ads_publications.total_papers }} papers, {{ site.data.ads_publications.total_citations }} citations; <a href="https://www.iac.es/en/outreach/news/gran-telescopio-canarias-observes-closest-little-red-dot-shedding-light-how-first-black-holes-grew?overridden_route_name=entity.node.canonical&amp;base_route_name=entity.node.canonical&amp;page_manager_page=node_view&amp;page_manager_page_variant=node_view-panels_variant-2&amp;page_manager_page_variant_weight=-4">press release</a>){% endif %}.
 
 ## Research highlights:
 
