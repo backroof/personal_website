@@ -24,6 +24,9 @@ latest_posts:
 ---
 
 <style>
+  .post-header .post-title::after {
+    content: '（纪锡涵）';
+  }
   .post .profile {
     width: 160px !important;
     max-width: 40%;
