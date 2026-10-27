@@ -16,7 +16,7 @@ nav_order: 3
   <div class="col mb-4">
     <details class="card h-100">
       <summary class="card-body"><h3 class="card-title">VLT/MOONS</h3><img src="{{ '/assets/img/projects/vltmoons.webp' | relative_url }}" alt="VLT/MOONS project" loading="lazy" style="display: block; width: 100%; height: 200px; object-fit: contain; margin-top: 1rem;"></summary>
-      <div class="card-body"><p>More details coming soon.</p></div>
+      <div class="card-body"><p>MOONS is a new multi-object optical and near infrared spectrograph on the VLT, covering a wavelength range up to the H band. It has a FoV of the size of the Moon with roughly 1000 multiplexing.</p><p>I am a team member of MOONS. The GTO programme MOONRISE will obtain spectra for hundreds of thousands of galaxies near cosmic noon for about 200 nights.</p></div>
     </details>
   </div>
   <div class="col mb-4">
