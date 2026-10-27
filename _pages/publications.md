@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_sqlSKM9Sc2BHwUvwbu8CQ).
+My publications are available in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/_sqlSKM9Sc2BHwUvwbu8CQ){% if site.data.ads_publications.total_papers %} ({{ site.data.ads_publications.total_papers }} papers, {{ site.data.ads_publications.total_citations }} citations){% endif %}.
 
 ## Research highlights:
 

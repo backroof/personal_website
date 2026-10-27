@@ -82,7 +82,13 @@ def main():
     papers = select_papers(documents)
     if not papers:
         raise RuntimeError("No first-author papers for Xihan Ji were found in the ADS library.")
-    data = {"updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "papers": papers}
+    unique_documents = {doc["bibcode"]: doc for doc in documents}
+    data = {
+        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "papers": papers,
+        "total_papers": len(unique_documents),
+        "total_citations": sum(int(doc.get("citation_count", 0)) for doc in unique_documents.values()),
+    }
     OUTPUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Updated {len(papers)} first-author publications from {len(bibcodes)} library records.")
     for paper in papers:
