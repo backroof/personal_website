@@ -22,7 +22,7 @@ nav_order: 3
   <div class="col mb-4">
     <details class="card h-100">
       <summary class="card-body"><h3 class="card-title">DESI</h3><img src="{{ '/assets/img/projects/desi.webp' | relative_url }}" alt="DESI project" loading="lazy" style="display: block; width: 100%; height: 200px; object-fit: contain; margin-top: 1rem;"></summary>
-      <div class="card-body"><p>More details coming soon.</p></div>
+      <div class="card-body"><p>DESI survey is currently the largest wide-area optical spectroscopic survey using the Dark Energy Spectroscopic Instrument on the Nicholas U. Mayall 4-meter Telescope. It delivers tens of millions of galaxy spectra at low redshift.</p><p>I am working with public DESI data and collaborating with DESI members. Check out this latest paper we wrote using DESI DR1 finding a remarkable absorption-line <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260925224J/abstract">QSO</a> showing signatures of BLR-scale inflows, for which we have approved Chandra time for follow-up observations.</p></div>
     </details>
   </div>
   <div class="col mb-4">
