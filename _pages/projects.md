@@ -28,7 +28,7 @@ nav_order: 3
   <div class="col mb-4">
     <details class="card h-100">
       <summary class="card-body"><h3 class="card-title">AMASE</h3><img src="{{ '/assets/img/projects/amase.webp' | relative_url }}" alt="AMASE project" loading="lazy" style="display: block; width: 100%; height: 200px; object-fit: contain; margin-top: 1rem;"></summary>
-      <div class="card-body"><p>More details coming soon.</p></div>
+      <div class="card-body"><p>AMASE survey is a wide-area, high-spectral resolution integral field unit survey led by the research group in the <a href="https://ui.adsabs.harvard.edu/abs/2024SPIE13096E..7SY/abstract">Chinese University of Hong Kong</a>. It will map nebulae of our Milky Way as well as nearby galaxies with an unprecedented spectral resolution of R &gt; 10,000, enabling detailed studies on stellar feedback and ISM conditions on sub-parsec scales.</p><p>I am the working group lead on metallicity calibrations and ionization modeling. With AMASE starting commissioning in 2027, we will work on novel nebular diagnostics taking into account key spatial and spectral information missed by previous studies.</p></div>
     </details>
   </div>
 </div>
