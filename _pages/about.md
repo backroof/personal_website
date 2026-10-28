@@ -37,7 +37,7 @@ I am **Xihan Ji**, an **Assistant Professor** at the **Institute for Astronomy, 
 
 I started my current position in October 2026. Before this position, I was a postdoc in Cambridge (2023–2026), and I obtained my Ph.D. from the University of Kentucky (2018–2023).
 
-**I study the evolution of galaxies and black holes across cosmic time, using observations from JWST, VLT, and many other facilities.** Reach out to my email: **jxhloading [at] gmail.com or xj274 [at] zju.edu.cn** if you are looking for a Ph.D. program or a postdoc opportunity.
+<strong style="color: #3076b8;">I study the evolution of galaxies and black holes across cosmic time, using observations from JWST, VLT, and many other facilities.</strong> Reach out to my email: **jxhloading [at] gmail.com or xj274 [at] zju.edu.cn** if you are looking for a Ph.D. program or a postdoc opportunity.
 
 <div style="clear: both;"></div>
 
